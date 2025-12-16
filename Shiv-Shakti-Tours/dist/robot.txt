@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shivshaktivtourandtravel.com/sitemap.xml
