@@ -58,7 +58,7 @@ This project helped reinforce:
 
 🔗 **Live Project:**
 
-> *(Add your hosted link here)*
+> Netlify: [LIVE link](https://jovial-caramel-a694b3.netlify.app/)
 
 ---
 
