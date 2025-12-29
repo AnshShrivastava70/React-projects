@@ -7,7 +7,7 @@ This repository contains multiple React projects, each organized in its own fold
 - [Notes App](#notes-app)
 - [Shiv Shakti Tours & Travels Website](#shiv-shakti-tours--travels-website)
 
----
+
 
 ## Projects
 
@@ -17,7 +17,6 @@ A React-based notes application with add, edit, delete, search, debounce, and lo
 🔗 [LIVE URL](https://jovial-caramel-a694b3.netlify.app/)
 
 ---
-
 ### Shiv Shakti Tours & Travels Website
 A responsive freelance business website built using React and Tailwind CSS.  
 📂 Folder: `shiv-shakti-tours`  
