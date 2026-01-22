@@ -4,8 +4,6 @@ This repository contains multiple React projects, each organized in its own fold
 
 ## Projects Overview
 
-- [React Projects](#react-projects)
-  - [Projects Overview](#projects-overview)
   - [Projects](#projects)
     - [Notes App](#notes-app)
     - [Shiv Shakti Tours \& Travels Website](#shiv-shakti-tours--travels-website)
