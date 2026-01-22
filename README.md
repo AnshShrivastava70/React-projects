@@ -4,10 +4,12 @@ This repository contains multiple React projects, each organized in its own fold
 
 ## Projects Overview
 
-- [Notes App](#notes-app)
-- [Shiv Shakti Tours & Travels Website](#shiv-shakti-tours--travels-website)
-
-
+- [React Projects](#react-projects)
+  - [Projects Overview](#projects-overview)
+  - [Projects](#projects)
+    - [Notes App](#notes-app)
+    - [Shiv Shakti Tours \& Travels Website](#shiv-shakti-tours--travels-website)
+    - [E-Commerce Store](#e-commerce-store)
 
 ## Projects
 
@@ -17,10 +19,19 @@ A React-based notes application with add, edit, delete, search, debounce, and lo
 🔗 [LIVE URL](https://jovial-caramel-a694b3.netlify.app/)
 
 ---
+
 ### Shiv Shakti Tours & Travels Website
 A responsive freelance business website built using React and Tailwind CSS.  
 📂 Folder: `shiv-shakti-tours`  
 🔗 [LIVE URL](https://legendary-frangipane-b5d3a5.netlify.app/)
 
 ---
-👨‍💻 **Author:** Ansh Shrivastava  
+
+### E-Commerce Store
+A frontend-focused e-commerce application built with React and Tailwind CSS. Includes product listing, skeleton loaders, cart functionality, and UI states for loading, empty cart, and errors.  
+📂 Folder: `e-commerce-store`  
+🔗 Live URL: _Coming soon_
+
+---
+
+👨‍💻 **Author:** Ansh Shrivastava
