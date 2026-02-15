@@ -64,7 +64,7 @@ const Home = () => {
       </div>
 
       {/* ProductListing  */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 place-items-center max-w-[100vw]  min-h-screen gap-5 md:gap-7 py-4 p-2 md:p-6 md:py-8 bg-slate-200">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 place-items-center max-w-screen  min-h-screen gap-5 md:gap-7 py-4 p-2 md:p-6 md:py-8 bg-slate-200">
         {sortedProducts.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}
