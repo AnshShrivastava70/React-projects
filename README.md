@@ -4,6 +4,8 @@ This repository contains multiple React projects, each organized in its own fold
 
 ## Projects Overview
 
+- [React Projects](#react-projects)
+  - [Projects Overview](#projects-overview)
   - [Projects](#projects)
     - [Notes App](#notes-app)
     - [Shiv Shakti Tours \& Travels Website](#shiv-shakti-tours--travels-website)
@@ -22,6 +24,7 @@ A React-based notes application with add, edit, delete, search, debounce, and lo
 A responsive freelance business website built using React and Tailwind CSS.  
 📂 Folder: `shiv-shakti-tours`  
 🔗 [LIVE URL](https://legendary-frangipane-b5d3a5.netlify.app/)
+
 
 ---
 
