@@ -57,6 +57,14 @@ This project is being built **incrementally**, following professional developmen
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Live Project:**
+
+> Netlify: [LIVE link](https://musical-gelato-9c08d8.netlify.app/)
+
+---
+
 ## 🧩 Architecture Highlights
 
 - Clear separation of concerns:

@@ -30,7 +30,7 @@ A responsive freelance business website built using React and Tailwind CSS.
 ### E-Commerce Store
 A frontend-focused e-commerce application built with React and Tailwind CSS. Includes product listing, skeleton loaders, cart functionality, and UI states for loading, empty cart, and errors.  
 📂 Folder: `e-commerce-store`  
-🔗 Live URL: _Coming soon_
+🔗 [Live URL](https://musical-gelato-9c08d8.netlify.app/)
 
 ---
 
